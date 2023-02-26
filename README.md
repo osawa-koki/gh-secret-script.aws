@@ -1,6 +1,6 @@
 # gh-secret-script.aws
 
-AWSを操作するのに必要な情報をGitHubリポジトリシークレットに登録するスクリプトです。  
+🕊️🕊️🕊️ AWSを操作するのに必要な情報をGitHubリポジトリシークレットに登録するスクリプトです。  
 
 ## 実行方法
 
@@ -17,3 +17,8 @@ AWSを操作するのに必要な情報をGitHubリポジトリシークレッ�
 | AWS_ACCESS_KEY_ID | AWSアクセスキー |
 | AWS_SECRET_ACCESS_KEY | AWSシークレットアクセスキー |
 | AWS_DEFAULT_REGION | AWSリージョン |
+
+## 自分用メモ
+
+GitHub Actionsで登録されている情報を出力しようとしましたが、セキュリティ上の理由？でGitHubがマスキングしてしまうようです。  
+便利ですけどね、、、  
